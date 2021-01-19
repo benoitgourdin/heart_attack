@@ -2,6 +2,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 
+
 def regression(X_train, X_test, y_train, y_test):
 
     # train algorithm
